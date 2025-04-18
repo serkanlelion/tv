@@ -33,6 +33,9 @@ https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showturk.m3u8
 
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
+http://185.234.111.229:8000/play/a00e
+
 #EXTINF:-1 tvg-name="TRT HABER" tvg-id="TRTHaber.tr" tvg-logo="https://i.ibb.co/NCvRHC3/trt-haber.png" group-title="HABER",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 
